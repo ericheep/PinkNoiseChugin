@@ -5,10 +5,10 @@ This Chugin was inspired by the conversation from the [music-dsp](http://www.fir
 
 It includes the following ways to synthesize Pink noise.
 
- ~- Filtered Pink Noise~
- ~- Voss Pink Noise~
- ~- Voss/McCartney Pink Noise~
- ~- Stochastic Voss/McCartney Pink Noise~
- ~- [A New Shade of Pink](https://github.com/Stenzel/newshadeofpink) (Stenzel Pink Noise)~
+  * Filtered Pink Noise
+  * Voss Pink Noise
+  * Voss/McCartney Pink Noise
+  * Stochastic Voss/McCartney Pink Noise
+  * [A New Shade of Pink](https://github.com/Stenzel/newshadeofpink) (Stenzel Pink Noise)
 
 
